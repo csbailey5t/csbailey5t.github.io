@@ -10,7 +10,7 @@ I'm a digital scholarship and data-driven research specialist, currently working
 
 Since then, I've been a Research Developer in the [Center for Interdisciplinary Digital Research (CIDR)](https://cidr.stanford.edu) at [Stanford Libraries](https://library.stanford.edu/), where I collaborated with humanities and social science faculty to build digital scholarship projects, created and taught digital research methods workshops, and contributed to open source projects. I was also the Head of [Social Science Data and Software (SSDS)](https://ssds.stanford.edu/) at Stanford Libraries, where I oversaw a group of Ph.D. students in delivering expert consultation on statistical computing, organized and taught in the CIDR workshop series, and collaborated with colleagues across Stanford University to provide better access to data and support for data-driven research.
 
-As a scholar, I work to support other scholars, and help them to achieve research that otherwise seems out of reach due to technical and epistemoogical limits. As a philosopher and theologian, I still read Heidegger, Derrida, Barth, and Jüngel, pursue work on the role of vulnerability in theological anthropology, and experiment with methods in computational research on theological texts, such as Barth's _Church Dogmatics_.
+As a scholar, I work to support other scholars, and help them to achieve research that otherwise seems out of reach due to technical and epistemological limits. As a philosopher and theologian, I still read Heidegger, Derrida, Barth, and Jüngel, pursue work on the role of vulnerability in theological anthropology, and experiment with methods in computational research on theological texts, such as Barth's _Church Dogmatics_.
 
 ### Colophon
 

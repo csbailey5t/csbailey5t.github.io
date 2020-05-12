@@ -10,5 +10,6 @@ I've had a lot of mentors in the digital humanities and libraries worlds. I woul
 
 - Bethany Nowviskie
 - Wayne Graham
+- Eric Rochester
 - Stu Snydamn
 - Glen Worthey

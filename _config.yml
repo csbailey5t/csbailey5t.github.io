@@ -18,8 +18,8 @@ author:
   avatar: /assets/img/scott-profile.jpg
 
 # Url settings
-url: "https://csbailey.now.sh"
-# url: "https://csbailey.org"
+# url: "https://csbailey.now.sh"
+url: "https://csbailey.org"
 baseurl:
 permalink: /:title/
 google_analytics: 166260560-1

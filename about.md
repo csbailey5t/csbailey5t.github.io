@@ -1,18 +1,17 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: I'm a digital scholarship specialist who's happily living an alt-ac life in university libraries.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a digital scholarship and data-driven research specialist, currently working as a Data and Visualization Librarian at the [NC State University Libraries](https://www.lib.ncsu.edu/). After discovering a love of code, application building, and computational research, I shifted away from my Ph.D. program in philosophical theology at the University of Virginia to become a Digital Humanities Developer at the beloved [Scholars' Lab](https://scholarslab.lib.virginia.edu/) at the University of Virginia.
 
-If you have a question about him or else, just send a letter to him.
+Since then, I've been a Research Developer in the [Center for Interdisciplinary Digital Research (CIDR)](https://cidr.stanford.edu) at [Stanford Libraries](https://library.stanford.edu/), where I collaborated with humanities and social science faculty to build digital scholarship projects, created and taught digital research methods workshops, and contributed to open source projects. I was also the Head of [Social Science Data and Software (SSDS)](https://ssds.stanford.edu/) at Stanford Libraries, where I oversaw a group of Ph.D. students in delivering expert consultation on statistical computing, organized and taught in the CIDR workshop series, and collaborated with colleagues across Stanford University to provide better access to data and support for data-driven research.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+As a scholar, I work to support other scholars, and help them to achieve research that otherwise seems out of reach due to technical and epistemoogical limits. As a philosopher and theologian, I still read Heidegger, Derrida, Barth, and Jüngel, pursue work on the role of vulnerability in theological anthropology, and experiment with methods in computational research on theological texts, such as Barth's _Church Dogmatics_.
 
-##### may u needs ✨
+### Colophon
 
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+This website is built with Jekyll from a theme by Mahendrata Harpi: [http://github.com/piharpi/jekyll-klise/](http://github.com/piharpi/jekyll-klise/).

@@ -2,12 +2,13 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Thank you.
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+I've had a lot of mentors in the digital humanities and libraries worlds. I wouldn't be here without:
 
-<hr>
-
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+- Bethany Nowviskie
+- Wayne Graham
+- Stu Snydamn
+- Glen Worthey

@@ -14,4 +14,6 @@ As a scholar, I work to support other scholars, and help them to achieve researc
 
 ### Colophon
 
-This website is built with Jekyll from a theme by Mahendrata Harpi: [http://github.com/piharpi/jekyll-klise/](http://github.com/piharpi/jekyll-klise/).
+This website is built with [Jekyll](https://jekyllrb.com/) from a theme by Mahendrata Harpi: [http://github.com/piharpi/jekyll-klise/](http://github.com/piharpi/jekyll-klise/).
+
+My profile picture is from [Chuck Samuels](https://www.lib.ncsu.edu/staff/cjsamuel).

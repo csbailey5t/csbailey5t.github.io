@@ -1,7 +1,7 @@
 # Site settings
 title: Scott Bailey
 description: >-
-  Scott Bailey is a digital scholarship and data-driven research specialist, working with code and data in the library world.
+  Scott Bailey is a developer and teacher, working with code and data in the library world.
 lang: en-US
 timezone: America/New_York
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -12,9 +12,9 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Scott Bailey
   bio: >-
-    Scott Bailey is a digital scholarship and data-driven research specialist, working with code and data in the library world.
+    Scott Bailey is a developer and teacher, working with code and data in the library world.
   username: csbailey5t
-  email: csbaile3@ncsu.edu
+  email: csb5t@virginia.edu
   avatar: /assets/img/scott-profile.jpg
 
 # Url settings
